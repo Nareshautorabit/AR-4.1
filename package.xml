@@ -29,4 +29,8 @@
         <members>GlobalPickyTest__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>TestSet</members>
+        <name>PermissionSet</name>
+    </types>
 </Package>
