@@ -31,6 +31,7 @@
     </types>
     <types>
         <members>TestSet</members>
+        <members>TestSet2</members>
         <name>PermissionSet</name>
     </types>
 </Package>
