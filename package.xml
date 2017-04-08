@@ -7,6 +7,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>myPage</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
         <members>standard__Community</members>
