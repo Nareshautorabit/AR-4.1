@@ -1,4 +1,0 @@
-<apex:page standardController="Account" extensions="myControllerExtension">
-   This is my <i>page</i>. <br/>
-   <c:MyComponent />
-</apex:page>
